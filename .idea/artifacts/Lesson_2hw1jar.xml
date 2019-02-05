@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Lesson_2hw1jar">
+    <output-path>D:/Домашка java</output-path>
+    <root id="archive" name="2.3.jar">
+      <element id="module-output" name="2.3" />
+    </root>
+  </artifact>
+</component>
